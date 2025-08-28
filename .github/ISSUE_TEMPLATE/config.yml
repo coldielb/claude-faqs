@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 🤔 General Questions
-    url: https://discord.gg/anthropic
+  - name: General Questions
+    url: https://example.com
     about: For general questions about Claude or Anthropic, please join our Discord community
-  - name: 🐛 Claude Bug Report
+  - name: Claude Bug Report
     url: https://support.anthropic.com
     about: For bugs with Claude itself, please contact Anthropic support directly
-  - name: 💬 Community Discussion
-    url: https://reddit.com/r/anthropic
+  - name: Community Discussion
+    url: https://linktodiscordorreddit.com
     about: For broader discussions, visit our Reddit community
