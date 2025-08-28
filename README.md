@@ -14,7 +14,7 @@ This living document aims to provide clear, practical answers to real questions 
 - Account recovery
 - Profile and settings issues
 
-### [Claude Usage](<link to page>)
+### [Claude Usage](claude-usage.md)
 - What Claude can and cannot do
 - Usage limits and restrictions
 - Best practices for conversations
