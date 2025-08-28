@@ -1,0 +1,105 @@
+# FAQ Content Labels
+- name: "new-faq"
+  color: "0075ca"
+  description: "Request for a new FAQ to be added"
+
+- name: "improvement"
+  color: "a2eeef"
+  description: "Improvement to existing FAQ content"
+
+- name: "outdated"
+  color: "d93f0b"
+  description: "Content that is no longer accurate or current"
+
+# Issue Type Labels  
+- name: "bug"
+  color: "d73a49"
+  description: "Technical issues with the wiki (broken links, formatting, etc.)"
+
+- name: "enhancement"
+  color: "84b6eb"
+  description: "New features or improvements to wiki functionality"
+
+- name: "organization"
+  color: "fbca04"
+  description: "Changes to wiki structure, navigation, or organization"
+
+- name: "question"
+  color: "cc317c"
+  description: "Community questions about the wiki or its content"
+
+# Status Labels
+- name: "needs-review"
+  color: "ededed"
+  description: "Awaiting review from maintainers"
+
+- name: "needs-more-info"
+  color: "fef2c0"
+  description: "More information needed from the contributor"
+
+- name: "ready-to-merge"
+  color: "0e8a16"
+  description: "PR has been approved and is ready to merge"
+
+- name: "work-in-progress"
+  color: "f9d0c4"
+  description: "Work is ongoing, not ready for review"
+
+- name: "blocked"
+  color: "b60205"
+  description: "Cannot proceed due to external dependencies"
+
+# Priority Labels
+- name: "priority: high"
+  color: "b60205"
+  description: "High priority issue that should be addressed quickly"
+
+- name: "priority: medium"
+  color: "fbca04"
+  description: "Medium priority issue"
+
+- name: "priority: low"
+  color: "0e8a16"
+  description: "Low priority issue, nice to have"
+
+# Content Category Labels
+- name: "category: account-issues"
+  color: "5319e7"
+  description: "Related to account problems, bans, login issues"
+
+- name: "category: claude-usage"
+  color: "1d76db"
+  description: "Related to Claude's capabilities and usage"
+
+- name: "category: billing"
+  color: "0052cc"
+  description: "Related to billing, subscriptions, and payments"
+
+- name: "category: technical"
+  color: "0366d6"
+  description: "Related to API, development, and technical issues"
+
+- name: "category: general"
+  color: "7057ff"
+  description: "General questions about Anthropic and Claude"
+
+# Community Labels
+- name: "good first issue"
+  color: "7057ff"
+  description: "Good for newcomers to the project"
+
+- name: "help wanted"
+  color: "008672"
+  description: "Extra attention is needed from the community"
+
+- name: "duplicate"
+  color: "cfd3d7"
+  description: "This issue or pull request already exists"
+
+- name: "wontfix"
+  color: "ffffff"
+  description: "This will not be worked on"
+
+- name: "invalid"
+  color: "e4e669"
+  description: "This doesn't seem right or is not appropriate"
