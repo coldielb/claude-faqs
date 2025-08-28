@@ -17,7 +17,7 @@ We welcome all kinds of contributions to make this FAQ more helpful:
 - Reorganize content for better navigation
 
 ### How to Contribute
-1. **Open an issue on this repository to discuss your suggestion
+1. Open an issue on this repository to discuss your suggestion
 2. Submit a pull request with your changes
 3. Message the community team on Discord if you're not sure about GitHub
 4. Share feedback in our Reddit community
