@@ -8,7 +8,7 @@ This living document aims to provide clear, practical answers to real questions 
 
 ## Categories
 
-### [Account Issues](<link to page>)
+### [Account Issues](account-issues-faqs.md)
 - Account bans and suspensions
 - Login and access problems
 - Account recovery
