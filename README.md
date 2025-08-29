@@ -16,27 +16,33 @@ This living document aims to provide clear, practical answers to real questions 
 
 ### [Claude Usage](claude-usage.md)
 - What Claude can and cannot do
-- Usage limits and restrictions
+- Model comparisons (Claude vs ChatGPT, etc.)
+- Privacy and data safety
 - Best practices for conversations
-- Understanding Claude's responses
 
-### [Billing & Plans](<link to page>)
-- Subscription questions
-- Payment issues
-- Plan comparisons
+### [Claude Code](claude-code-faq.md)
+- Getting started with Claude Code
+- Sub-agents and MCPs
+- Context management and memory
+- Troubleshooting and performance issues
+
+### [Billing & Plans](billing-faq.md)
+- Plan comparisons (Pro vs Max)
+- Usage limits and optimization
+- Payment and subscription management
 - Refunds and cancellations
 
-### [Technical Issues](<link to page>)
-- API questions
+### [Technical Issues](technical-faq.md)
+- API questions and development
 - Integration problems
-- Development help
-- Performance issues
+- Performance and troubleshooting
+- Browser and client issues
 
-### [General Questions](<link to page>)
-- Company information
-- Safety and guidelines
+### [General Questions](general-faq.md)
+- About Anthropic and Claude
+- Safety and usage policies
+- Community and support
 - Feature requests
-- Miscellaneous questions
 
 ## How to Use This Wiki
 
